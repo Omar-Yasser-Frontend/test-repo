@@ -1,3 +1,3 @@
 # hello their
 
-i'm here just try some git codes
+i'm here just try some git code
